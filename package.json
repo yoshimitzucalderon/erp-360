@@ -94,6 +94,7 @@
   "devDependencies": {
     "@types/aos": "3.0.7",
     "@types/chance": "1.1.6",
+    "@types/date-arithmetic": "^4.1.4",
     "@types/lodash": "^4.17.15",
     "@types/lowlight": "^0.0.7",
     "@types/node": "20",
